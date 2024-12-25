@@ -1,7 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Profile Banner](https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5)
-
+![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZwNjhhMGNsY3FqaDdudnI2bzNjdWdnYzJocTRrN2gxc3o5OGxuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif)
 ## 👋 About Me
 Hi there! I'm **[Your Name]**, a passionate developer, creator, and lifelong learner.  
 I specialize in **[Your Specialization]** and love working on **[Your Interests]**.
