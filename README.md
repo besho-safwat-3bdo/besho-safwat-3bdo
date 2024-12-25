@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=790b76114mrz9r61cki75mt5u65y5qasceu0nnorlr8melck&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 👋 About Me
 Hi there! I'm **[Your Name]**, a passionate developer, creator, and lifelong learner.  
