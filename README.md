@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-![Profile Banner](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=790b76114mrz9r61cki75mt5u65y5qasceu0nnorlr8melck&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Profile Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZkeTdrbHk5bGxuYjliZWtxN2Voc2Nwa3Q0ZTBicDJ2dTZpNXMwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.webp)
 
 ## 👋 About Me
 Hi there! I'm **[Your Name]**, a passionate developer, creator, and lifelong learner.  
